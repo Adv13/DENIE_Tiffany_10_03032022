@@ -6,3 +6,6 @@ Wireframes, identité visuelle et maquette :
 
 Kanban et user stories :
 - [Lien Trello du projet](https://trello.com/b/GsouDjhp/learnhome-website-kanban)
+
+Diagrammes de cas d'usage :
+- [Lien vers drawio](https://app.diagrams.net/?libs=general;flowchart#HAdv13%2FDENIE_Tiffany_10_03032022%2Fmain%2FLearn%40Home_Diagrammes.drawio)

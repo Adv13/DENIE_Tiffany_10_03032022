@@ -5,4 +5,4 @@ Wireframes, identité visuelle et maquette :
 - [Lien Figma du projet](https://www.figma.com/file/Af2Ps1xH3lwZHbSvQcNWmR/Learn%40Home-Website-design?node-id=5%3A2)
 
 Kanban et user stories :
-- [lien Trello du projet](https://trello.com/b/GsouDjhp/learnhome-website-kanban)
+- [Lien Trello du projet](https://trello.com/b/GsouDjhp/learnhome-website-kanban)

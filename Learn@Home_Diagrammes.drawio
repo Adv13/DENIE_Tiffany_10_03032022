@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T18:12:44.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="TmXCep9D9czrza8gDDsg" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-13T18:16:32.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ypLV-eNe0ok-4IZaLCoO" version="17.1.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page de connexion">
-    <mxGraphModel dx="1093" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -144,8 +144,26 @@
         <mxCell id="6urJBGMZWyxlTxzxxhEN-44" value="L&#39;utilisateur écrit son email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6urJBGMZWyxlTxzxxhEN-46" value="Affiche la page de&lt;br&gt;récupération de mot de passe demandant de donner l&#39;adresse email du profil" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470.75" y="1430" width="198.5" height="175" as="geometry" />
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6urJBGMZWyxlTxzxxhEN-46" target="6urJBGMZWyxlTxzxxhEN-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6urJBGMZWyxlTxzxxhEN-46" target="6urJBGMZWyxlTxzxxhEN-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-46" value="Vérifier si l&#39;email est&amp;nbsp;&lt;br&gt;présent dans la base de&lt;br&gt;données" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485.37" y="1430" width="169.25" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-49" value="L&#39;utilisateur reçoit un email pour réinitialiser son mot de passe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="322.5" y="1465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-51" value="Oui" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="451.5" y="1476" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-53" value="Non" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="573" y="1568" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-54" value="Afficher un message indiquant que l&#39;email n&#39;est pas dans la base de données" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

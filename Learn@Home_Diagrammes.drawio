@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T17:51:32.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="bnPMefvq-emVaejWCHyl" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-13T17:52:46.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="mDO-wIijihXMOi-ebkNM" version="17.1.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page de connexion">
     <mxGraphModel dx="1093" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         <mxCell id="6urJBGMZWyxlTxzxxhEN-24" value="Oui" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="725" y="440" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6urJBGMZWyxlTxzxxhEN-25" target="6urJBGMZWyxlTxzxxhEN-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6urJBGMZWyxlTxzxxhEN-25" value="Afficher un message indiquant que l&#39;email et/ou le mot de passe sont incorrects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="401.5" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -95,6 +98,12 @@
         </mxCell>
         <mxCell id="6urJBGMZWyxlTxzxxhEN-29" value="Non" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="603" y="585" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6urJBGMZWyxlTxzxxhEN-30" target="6urJBGMZWyxlTxzxxhEN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urJBGMZWyxlTxzxxhEN-30" value="L&#39;utilisateur modifie&lt;br&gt;l&#39;un et/ou les inputs concernés" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="382.25" y="740" width="158.5" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

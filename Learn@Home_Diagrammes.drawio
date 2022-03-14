@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T18:33:03.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="EnMcp-okXTVyNK8S560W" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-14T20:20:12.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="l2EN9ZQDxk9dhwEXh-Ro" version="17.1.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page de connexion">
     <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,7 +411,42 @@
           <mxGeometry x="80" y="2883" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S6FqdRpG0WpkVacc6mzW-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 4&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="_nYyIv013TXHIx_sjPUl-1">
-          <mxGeometry x="73" y="3070" width="220" height="40" as="geometry" />
+          <mxGeometry x="78" y="3030" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="_nYyIv013TXHIx_sjPUl-1" source="S6FqdRpG0WpkVacc6mzW-6" target="S6FqdRpG0WpkVacc6mzW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-6" value="L&#39;utilisateur clique sur l&#39;un des onglet de tchat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="_nYyIv013TXHIx_sjPUl-1">
+          <mxGeometry x="114" y="3100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-7" value="Afficher l&#39;historique des messages" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="_nYyIv013TXHIx_sjPUl-1">
+          <mxGeometry x="630" y="3105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="_nYyIv013TXHIx_sjPUl-1" source="S6FqdRpG0WpkVacc6mzW-10" target="S6FqdRpG0WpkVacc6mzW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-10" value="Requête&lt;br&gt;envoyée&lt;br&gt;à l&#39;API pour avoir l&#39;historique des&lt;br&gt;messages de&lt;br&gt;ce tchat la" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="_nYyIv013TXHIx_sjPUl-1">
+          <mxGeometry x="275" y="3062.5" width="150" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="_nYyIv013TXHIx_sjPUl-1" source="S6FqdRpG0WpkVacc6mzW-11" target="S6FqdRpG0WpkVacc6mzW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_nYyIv013TXHIx_sjPUl-1" source="S6FqdRpG0WpkVacc6mzW-11" target="S6FqdRpG0WpkVacc6mzW-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510.66666666666674" y="2980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-11" value="Si requête&lt;br&gt;acceptée et données&lt;br&gt;bien reçues,&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="_nYyIv013TXHIx_sjPUl-1">
+          <mxGeometry x="450" y="3076.25" width="120" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-15" value="Afficher un message d&#39;erreur type &quot;historique des messages non trouvé&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="_nYyIv013TXHIx_sjPUl-1">
+          <mxGeometry x="630" y="3015" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-19" value="Oui" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="_nYyIv013TXHIx_sjPUl-1">
+          <mxGeometry x="579" y="3117" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FqdRpG0WpkVacc6mzW-20" value="Non" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="_nYyIv013TXHIx_sjPUl-1">
+          <mxGeometry x="570" y="3030" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T18:23:48.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="G7f1iVROo_9JHF2YyA1E" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-14T18:30:07.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="u72WFXR5yrMdcvu8gO-F" version="17.1.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page de connexion">
     <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,10 +388,10 @@
         <mxCell id="5PS1-yesokjylmzqY_zh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Zv1ujTboXCkUcZ-0_XO2-1" source="5PS1-yesokjylmzqY_zh-13" target="5PS1-yesokjylmzqY_zh-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5PS1-yesokjylmzqY_zh-13" value="L&#39;utilisateur clique sur l&#39;onglet &quot;mon calendrier&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
+        <mxCell id="5PS1-yesokjylmzqY_zh-13" value="L&#39;utilisateur clique sur l&#39;onglet &quot;mes tâches&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
           <mxGeometry x="109" y="4220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5PS1-yesokjylmzqY_zh-14" value="Afficher la page de calendrier" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
+        <mxCell id="5PS1-yesokjylmzqY_zh-14" value="Afficher la page de gestion des tâches" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
           <mxGeometry x="293" y="4230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 9&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">

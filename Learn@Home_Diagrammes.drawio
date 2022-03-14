@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T18:21:06.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="uUr5EP7z1NZNTn79mhIC" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-14T18:23:48.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="G7f1iVROo_9JHF2YyA1E" version="17.1.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page de connexion">
     <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -349,53 +349,53 @@
         <mxCell id="Zv1ujTboXCkUcZ-0_XO2-1" parent="Zv1ujTboXCkUcZ-0_XO2-0" />
         <mxCell id="5PS1-yesokjylmzqY_zh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="Zv1ujTboXCkUcZ-0_XO2-1" source="5PS1-yesokjylmzqY_zh-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="289.9999999999998" y="3444.9230769230767" as="targetPoint" />
+            <mxPoint x="289.9999999999998" y="3554.9230769230767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-1" value="L&#39;utilisateur clique sur &quot;se déconnecter&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="109" y="3410" width="120" height="70" as="geometry" />
+          <mxGeometry x="109" y="3520" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-2" value="Afficher la page de&lt;br&gt;connexion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="294" y="3415" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="3525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="Zv1ujTboXCkUcZ-0_XO2-1" source="5PS1-yesokjylmzqY_zh-4" target="5PS1-yesokjylmzqY_zh-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-4" value="L&#39;utilisateur clique sur le logo &quot;learn@home&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="109" y="3640" width="120" height="70" as="geometry" />
+          <mxGeometry x="109" y="3750" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-5" value="afficher la page tableau de bord" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="294" y="3645" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="3755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 7&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="80" y="3570" width="220" height="40" as="geometry" />
+          <mxGeometry x="80" y="3680" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 6&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="80" y="3350" width="220" height="40" as="geometry" />
+          <mxGeometry x="80" y="3460" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 8&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="79" y="3790" width="220" height="40" as="geometry" />
+          <mxGeometry x="79" y="3900" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Zv1ujTboXCkUcZ-0_XO2-1" source="5PS1-yesokjylmzqY_zh-10" target="5PS1-yesokjylmzqY_zh-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-10" value="L&#39;utilisateur clique sur l&#39;onglet &quot;ma messagerie&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="109" y="3870" width="120" height="80" as="geometry" />
+          <mxGeometry x="109" y="3980" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-11" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Afficher&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;l&#39;interface de&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;tchat&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="292" y="3880" width="120" height="60" as="geometry" />
+          <mxGeometry x="292" y="3990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Zv1ujTboXCkUcZ-0_XO2-1" source="5PS1-yesokjylmzqY_zh-13" target="5PS1-yesokjylmzqY_zh-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-13" value="L&#39;utilisateur clique sur l&#39;onglet &quot;mon calendrier&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="109" y="4110" width="120" height="80" as="geometry" />
+          <mxGeometry x="109" y="4220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-14" value="Afficher la page de calendrier" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="293" y="4120" width="120" height="60" as="geometry" />
+          <mxGeometry x="293" y="4230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 9&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="79" y="4030" width="220" height="40" as="geometry" />
+          <mxGeometry x="79" y="4140" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="Zv1ujTboXCkUcZ-0_XO2-1" source="5PS1-yesokjylmzqY_zh-16" target="5PS1-yesokjylmzqY_zh-17">
           <mxGeometry relative="1" as="geometry" />
@@ -456,6 +456,30 @@
         </mxCell>
         <mxCell id="5PS1-yesokjylmzqY_zh-36" value="Non" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
           <mxGeometry x="645" y="2756" width="31" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6NFXZvebVRC-Tjn6Wo-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Zv1ujTboXCkUcZ-0_XO2-1" source="gq6NFXZvebVRC-Tjn6Wo-1" target="gq6NFXZvebVRC-Tjn6Wo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6NFXZvebVRC-Tjn6Wo-1" value="L&#39;utilisateur clique sur &quot;supprimer cet évènement&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
+          <mxGeometry x="110" y="3092.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6NFXZvebVRC-Tjn6Wo-2" value="L&#39;évènement est supprimé du&lt;br&gt;tableau de données lié à ce profil" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
+          <mxGeometry x="292" y="3102.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6NFXZvebVRC-Tjn6Wo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Zv1ujTboXCkUcZ-0_XO2-1" source="gq6NFXZvebVRC-Tjn6Wo-4" target="gq6NFXZvebVRC-Tjn6Wo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6NFXZvebVRC-Tjn6Wo-4" value="L&#39;utilisateur clique sur la croix" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
+          <mxGeometry x="107" y="3332.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6NFXZvebVRC-Tjn6Wo-5" value="Afficher un bloc vide type modal au premier plan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
+          <mxGeometry x="292" y="3337.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6NFXZvebVRC-Tjn6Wo-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 4&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
+          <mxGeometry x="78" y="3012.5" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6NFXZvebVRC-Tjn6Wo-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 5&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
+          <mxGeometry x="78" y="3252.5" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

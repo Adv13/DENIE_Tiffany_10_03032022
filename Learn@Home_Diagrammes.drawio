@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T18:16:32.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="ypLV-eNe0ok-4IZaLCoO" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-14T15:45:20.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="IzZ6XBBtkSWcwAuQPR8b" version="17.1.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page de connexion">
     <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,10 +169,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xLzza9aDwyXkkEniZzHm" name="Tableau de bord">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dXVPnkUjm1idQHvKVAn5-0" />
         <mxCell id="dXVPnkUjm1idQHvKVAn5-1" parent="dXVPnkUjm1idQHvKVAn5-0" />
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 1&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="dXVPnkUjm1idQHvKVAn5-1">
+          <mxGeometry x="80" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

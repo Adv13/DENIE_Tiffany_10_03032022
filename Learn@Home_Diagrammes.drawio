@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T15:45:20.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="IzZ6XBBtkSWcwAuQPR8b" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-14T15:56:56.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="uoLkmRi4-P_QgVHPFHYd" version="17.1.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page de connexion">
     <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,6 +175,39 @@
         <mxCell id="dXVPnkUjm1idQHvKVAn5-1" parent="dXVPnkUjm1idQHvKVAn5-0" />
         <mxCell id="TUu4BRl_gsgVaNEwL_c2-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Cas d&#39;usage 1&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="dXVPnkUjm1idQHvKVAn5-1">
           <mxGeometry x="80" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="dXVPnkUjm1idQHvKVAn5-1" source="TUu4BRl_gsgVaNEwL_c2-1" target="TUu4BRl_gsgVaNEwL_c2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="dXVPnkUjm1idQHvKVAn5-1" source="TUu4BRl_gsgVaNEwL_c2-1" target="TUu4BRl_gsgVaNEwL_c2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-1" value="Si&lt;br&gt;connexion au profil réussie" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dXVPnkUjm1idQHvKVAn5-1">
+          <mxGeometry x="110" y="120" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-2" value="Afficher page 404 et demander de revenir à la page de connexion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dXVPnkUjm1idQHvKVAn5-1">
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="dXVPnkUjm1idQHvKVAn5-1" source="TUu4BRl_gsgVaNEwL_c2-4" target="TUu4BRl_gsgVaNEwL_c2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-4" value="Récupérer les données liées au profil dans un tableau pour les afficher" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dXVPnkUjm1idQHvKVAn5-1">
+          <mxGeometry x="270" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="dXVPnkUjm1idQHvKVAn5-1" source="TUu4BRl_gsgVaNEwL_c2-5" target="TUu4BRl_gsgVaNEwL_c2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="dXVPnkUjm1idQHvKVAn5-1" source="TUu4BRl_gsgVaNEwL_c2-5" target="TUu4BRl_gsgVaNEwL_c2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-5" value="Si&lt;br&gt;messages non lus" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dXVPnkUjm1idQHvKVAn5-1">
+          <mxGeometry x="450" y="135" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-6" value="Afficher &quot;0 messages non lus&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dXVPnkUjm1idQHvKVAn5-1">
+          <mxGeometry x="590" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUu4BRl_gsgVaNEwL_c2-7" value="Mettre à jour le message avec le nombre de messages non lus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dXVPnkUjm1idQHvKVAn5-1">
+          <mxGeometry x="590" y="145" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

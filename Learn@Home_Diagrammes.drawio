@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T19:20:29.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="KxOqaxkKXdLrsNx--TRm" version="17.4.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-16T19:20:45.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ujSpnq2a9qxxDYCUKCzJ" version="17.4.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page de connexion">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -671,7 +671,7 @@
           <mxGeometry x="586" y="4480" width="31" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="_dRPYmhv-XlU_Cn2YB0p-12" value="Bénévole" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="Zv1ujTboXCkUcZ-0_XO2-1">
-          <mxGeometry x="440" y="4565" width="31" height="22.5" as="geometry" />
+          <mxGeometry x="430" y="4565" width="51" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
